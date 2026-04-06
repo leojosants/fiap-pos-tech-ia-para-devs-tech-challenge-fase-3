@@ -5,9 +5,13 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "chromadb>=1.5.5",
     "faiss-cpu>=1.13.2",
     "google-generativeai>=0.8.6",
     "ipykernel>=7.2.0",
+    "jupyter>=1.1.1",
+    "jupyter-client>=8.8.0",
+    "langchain-chroma>=1.1.0",
     "langchain-community>=0.4.1",
     "langchain-google-genai>=4.2.1",
     "langchain-ollama>=1.0.1",

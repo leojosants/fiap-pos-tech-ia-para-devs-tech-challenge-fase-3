@@ -1,0 +1,39 @@
+DOCUMENTO TÉCNICO: PROTOCOLO NACIONAL DE RASTREAMENTO DE CÂNCER (MAMA E COLO DO ÚTERO)
+FONTE: INCA (Instituto Nacional de Câncer) / Ministério da Saúde (MS)
+DATA DE REFERÊNCIA: 2024/2025
+
+--- SEÇÃO 1: CÂNCER DE MAMA ---
+
+1.1 Diretrizes de Rastreamento Populacional (Mulheres sem Sintomas):
+- Público-alvo: Mulheres de 50 a 69 anos.
+- Método: Mamografia bilateral (BIRADS).
+- Periodicidade: A cada dois anos (rastreamento bianual).
+
+1.2 Protocolo para Alto Risco (Histórico Familiar):
+- Critérios: Histórico de câncer de mama em parentes de primeiro grau antes dos 50 anos ou histórico de câncer de ovário em qualquer idade.
+- Conduta: Acompanhamento anual clínico e por imagem a partir dos 35 anos ou 10 anos antes da idade do diagnóstico do parente mais jovem.
+
+1.3 Classificação BI-RADS (Resumo de Conduta):
+- BI-RADS 0: Exame inconclusivo (necessita de avaliação adicional ou comparação).
+- BI-RADS 1 e 2: Exame normal/benigno (seguir rastreamento de rotina).
+- BI-RADS 3: Achado provavelmente benigno (controle em 6 meses).
+- BI-RADS 4 e 5: Suspeita de malignidade (necessidade urgente de biópsia).
+
+1.4 Sinais de Alerta (Exame Clínico):
+- Nódulo endurecido, fixo e geralmente indolor.
+- Retração da pele ou aspecto de "casca de laranja" (edema).
+- Saída de líquido sanguinolento ou transparente pelo mamilo (descarga papilar).
+
+--- SEÇÃO 2: CÂNCER DE COLO DE ÚTERO ---
+
+2.1 Diretrizes de Rastreamento (Papanicolau):
+- Público-alvo: Mulheres (ou pessoas com colo do útero) de 25 a 64 anos que já iniciaram atividade sexual.
+- Método: Exame citopatológico do colo do útero.
+- Periodicidade: Anual nos dois primeiros anos. Se ambos forem negativos (normais), o exame deve ser realizado a cada 3 anos.
+
+2.2 Conduta em Casos Alterados:
+- ASC-US: Repetir exame em 6 a 12 meses (dependendo da idade).
+- Lesões de Alto Grau (HSIL): Encaminhamento imediato para colposcopia e biópsia.
+- Prevenção Primária: Vacinação contra o HPV (disponível no SUS para meninas e meninos de 9 a 14 anos).
+
+--- FIM DO PROTOCOLO ---
