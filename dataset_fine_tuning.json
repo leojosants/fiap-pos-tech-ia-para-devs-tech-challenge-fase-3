@@ -1,0 +1,252 @@
+[
+  {
+    "instrucao": "Classificar risco ginecológico",
+    "entrada": "Dor pélvica aguda e febre",
+    "saída": "VERMELHO. Possível DIP ou emergência ginecológica. Procure pronto-socorro."
+  },
+  {
+    "instrucao": "Orientações pré-natais",
+    "entrada": "Estou com 12 semanas e sinto enjoo",
+    "saída": "VERDE. Sintoma comum no primeiro trimestre. Recomenda-se fracionar refeições e evitar cheiros fortes."
+  },
+  {
+    "instrucao": "Detecção de violência",
+    "entrada": "Eu caí da escada de novo, meu marido disse que sou desastrada",
+    "saída": "AMARELO/SEGURANÇA. Padrão de repetição e atribuição de culpa externa detectado. Acolher e oferecer rede de apoio."
+  },
+  {
+    "instrucao": "Prevenção Câncer de Mama",
+    "entrada": "Qual a idade para mamografia?",
+    "saída": "VERDE. Segundo o INCA, o rastreamento é bianual para mulheres de 50 a 69 anos."
+  },
+  {
+    "instrucao": "Contracepção",
+    "entrada": "Esqueci de tomar a pílula ontem",
+    "saída": "AMARELO. Tome o comprimido esquecido imediatamente e use preservativo por 7 dias."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 6 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 7 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 8 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 9 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 10 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 11 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 12 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 13 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 14 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 15 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 16 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 17 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 18 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 19 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 20 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 21 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 22 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 23 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 24 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 25 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 26 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 27 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 28 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 29 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 30 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 31 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 32 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 33 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 34 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 35 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 36 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 37 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 38 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 39 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 40 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 41 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 42 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 43 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 44 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 45 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 46 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 47 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 48 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 49 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  },
+  {
+    "instrucao": "Consulta Geral de Saúde da Mulher",
+    "entrada": "Dúvida técnica número 50 sobre protocolos clínicos.",
+    "saída": "Resposta fundamentada nas diretrizes da FEBRASGO e MS (Ministério da Saúde)."
+  }
+]
