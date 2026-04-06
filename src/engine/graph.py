@@ -11,9 +11,9 @@ def compile_biotech_graph(llm, search_func):
     workflow.add_node("analise_clinica", lambda s: node_analise_clinica(llm, s))
     workflow.add_node("prevencao", lambda s: node_prevencao_integracao(llm, search_func, s))
     workflow.add_node("urgencia", lambda s: node_urgencia(llm, search_func, s))
-    workflow.add_node("violencia", lambda s: node_violencia_domestica(llm, search_func, s))
+    workflow.add_node("violencia", lambda s: node_violencia(llm, search_func, s))
     workflow.add_node("obstetricia", lambda s: node_obstetricia(llm, search_func, s))
-    workflow.add_node("seguranca_etica", node_seguranca)
+    workflow.add_node("seguranca_etica", node_seguranca_etica)
 
     # 2. Definição das Edições (Lógica de Roteamento)
     def roteador_principal(state: PatientState):
