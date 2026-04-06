@@ -18,7 +18,10 @@ O **BioTech IA** é uma solução orquestrada que guia o profissional de saúde 
 
 ## 🛠️ Estrutura do Projeto
 ```text
-├── data/                    # Base de conhecimento (PDFs de diretrizes)
+├── data/                    # Base de conhecimento (PDFs e Dataset JSON)
+│   └── dataset_fine_tuning.json
+├── docs/                    # Documentação adicional do projeto
+├── knowledge/               # Repositório de informações estruturadas
 ├── notebook/               # Notebook da Phase 3 (Exploração e Grafo)
 ├── src/
 │   ├── engine/             # Core da IA (LangGraph, Nós e Estados)
