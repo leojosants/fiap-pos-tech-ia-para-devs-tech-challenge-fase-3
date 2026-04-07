@@ -21,7 +21,7 @@ def safe_invoke(llm, prompt, state, node_name):
     if "gravida" in relato or "gravidez" in relato or "gestante" in relato:
         return "🤰 **ACOMPANHAMENTO PRÉ-NATAL:** É fundamental manter a regularidade das consultas. Recomendamos seguir o calendário da OMS/FEBRASGO para garantir a sua saúde e a do bebê."
     
-    if "violencia" in relato or "abuso" in relato:
+    if "violencia" in relato or "abuso" in relato or "briga" in relato or "ameaça" in relato or "bater" in relato:
         return "💜 **ACOLHIMENTO E SEGURANÇA:** Você não está sozinha. Para apoio sigiloso e orientação jurídica, ligue para o **180** (Central de Atendimento à Mulher) ou procure o CREAS. Em caso de perigo imediato, ligue 190."
 
     # Tenta invocar a IA, mas se demorar ou falhar, usa o fallback de rotina
@@ -57,7 +57,7 @@ def node_analise_clinica(llm, state: PatientState):
         return {"risco": "VERMELHO"}
     
     # 🤰 Heurística de Acompanhamento Especializado - AMARELO
-    if any(t in relato for t in ["grávida", "gravidez", "gestação", "prenatal", "pré-natal", "violencia", "medo", "agrediu"]):
+    if any(t in relato for t in ["grávida", "gravidez", "gestação", "prenatal", "pré-natal", "violencia", "medo", "agrediu", "briga", "ameaça", "hematoma", "bater"]):
         return {"risco": "AMARELO"}
 
     # ✅ Heurística de Rotina / Boas-Vindas (Resposta Imediata) - VERDE
@@ -164,7 +164,7 @@ def node_seguranca_etica(state: PatientState):
     resp = state['resposta_final'].lower()
     
     # Filtro agressivo para evitar prescrição ou dosagem
-    prescricao_termos = ["posologia", "tomar", "mg ", "ml ", "gotas", "receita", "dose", " mg", " paracetamol", " dipirona", " ibuprofeno"]
+    prescricao_termos = ["posologia", " prescrição", " mg", " ml ", "gotas", " receitas", "dose", " medicar com", " paracetamol", " dipirona", " ibuprofeno"]
     
     if any(t in resp for t in prescricao_termos):
         return {

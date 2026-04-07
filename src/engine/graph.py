@@ -19,7 +19,7 @@ def compile_biotech_graph(llm, search_func):
     def roteador_principal(state: PatientState):
         relato = state['relato'].lower()
         if any(t in relato for t in ["sangramento", "dor forte", "aguda"]): return "urgencia"
-        if any(p in relato for p in ["marido", "agrediu", "medo", "violencia"]): return "violencia"
+        if any(p in relato for p in ["marido", "agrediu", "medo", "violencia", "briga", "ameaça", "hematoma", "bater"]): return "violencia"
         if any(o in relato for o in ["grávida", "parto", "bebê", "gestação"]): return "obstetricia"
         return "prevencao"
 
